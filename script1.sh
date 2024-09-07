@@ -3,3 +3,4 @@ echo "We are from batch-25 and learning git/gihub"
 lecho "i am learning devops
 "echo "hello"
 echo " hello good evening"
+echo "i love my india"
